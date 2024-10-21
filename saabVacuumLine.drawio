@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-10-21T19:50:12.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" etag="BvNNlaQq5TLCjbJ9isHC" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-10-21T20:08:20.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" etag="9H1F8cw28FhkDJj4OC5E" version="21.3.7" type="github">
   <diagram name="Страница 1" id="jrsHynhLpEYHkNdm0cTI">
     <mxGraphModel dx="603" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Kp3_UITj3tT_qzZ9Iucl-1" value="Valve" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Kp3_UITj3tT_qzZ9Iucl-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;a style=&quot;text-decoration: none; color: rgb(128, 128, 128); font-family: Saab, sans-serif; font-size: 8px;&quot; href=&quot;https://www.esaabparts.com/saab/parts/12593486&quot;&gt;PCV Hose (Evap Purge Valve to Intake Manifold)&lt;/a&gt;&lt;br&gt;12593486&lt;br&gt;&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kp3_UITj3tT_qzZ9Iucl-2" value="Valve" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Kp3_UITj3tT_qzZ9Iucl-2" value="&lt;font size=&quot;1&quot;&gt;&lt;a style=&quot;text-decoration: none; color: rgb(128, 128, 128); font-family: Saab, sans-serif; font-size: 8px;&quot; href=&quot;https://www.esaabparts.com/saab/parts/12588555&quot;&gt;PCV Hose/Valve (2.8T Intake Manifold)&lt;/a&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;12588555&lt;br&gt;&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kp3_UITj3tT_qzZ9Iucl-3" value="VacuumLine" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="Kp3_UITj3tT_qzZ9Iucl-10" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="645" y="385" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kp3_UITj3tT_qzZ9Iucl-12" value="SomeValve" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="Kp3_UITj3tT_qzZ9Iucl-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;EVAP Purge Valve 2.8T V6 (Rear of Intake Manifold)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kp3_UITj3tT_qzZ9Iucl-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kp3_UITj3tT_qzZ9Iucl-12" target="Kp3_UITj3tT_qzZ9Iucl-1">
@@ -67,8 +67,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kp3_UITj3tT_qzZ9Iucl-17" value="VenturyValve&lt;br&gt;(55556698)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="445" width="90" height="40" as="geometry" />
+        <mxCell id="Kp3_UITj3tT_qzZ9Iucl-17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;VenturyValve&lt;br&gt;(55556698)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="445" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
